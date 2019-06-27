@@ -1,0 +1,27 @@
+
+
+Version:	3.12
+CmdLine:	D:\Java Projects\DBSCAN\DBSCAN.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Java Projects\DBSCAN\.
+Java min ver:	1.004.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_201
+Check launcher:	C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe (OK)
+Match:		1.008.000_201
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_201
+Ignore:		1.008.000_201
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_201 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_201\bin\javaw.exe
+Launcher args:	-jar "D:\Java Projects\DBSCAN\DBSCAN.exe"
+Args length:	41/32768 chars
+Exit code:	0
